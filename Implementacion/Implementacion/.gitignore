@@ -1,0 +1,7 @@
+principal
+*.o
+*.obj
+.vscode
+StatusSuscripcion.cpp
+TipoCategoria.cpp
+TipoPago.cpp
